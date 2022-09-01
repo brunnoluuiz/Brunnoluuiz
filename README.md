@@ -1,4 +1,4 @@
- ## <div align="center"> Oi eu sou o Bruno Oliveira! 👋😃 
+ ## <div align="center"> Oi eu sou o Bruno Oliveira! 👋 Seja bem vindo(a) ao meu portifólio 😃 
  
  #
 
