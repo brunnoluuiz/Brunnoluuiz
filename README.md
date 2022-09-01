@@ -10,7 +10,7 @@
   
   
   
-  <img align="center" alt="Bruno-kotlin" height="35" width="90" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <div align="center"><img align="center" alt="Bruno-kotlin" height="35" width="90" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="Bruno-sqlite" height="35" width="90" src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="Bruno-Android-Studio" height="35" width="100" src= "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img align="center" alt="Bruno-Android-Studio" height="35" width="80" src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
