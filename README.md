@@ -15,7 +15,7 @@
   <img align="center" alt="Bruno-Android-Studio" height="35" width="80" src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Bruno-Android-Studio" height="35" width="80" src= "https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
   
-   ![ Animação de cobra ](https://github.com/brunnoluuiz/brunnoluuiz/blob/output/github-contribution-grid-snake.svg)
+   
   
   
   
